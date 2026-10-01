@@ -1,0 +1,49 @@
+# Credentials and local environment files
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+.aws/
+.ssh/
+
+# Dependencies and caches
+node_modules/
+.npm/
+.yarn/
+.pnpm-store/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.vite/
+.turbo/
+dist/
+build/
+coverage/
+
+# Editor, OS and temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# Local preview and verification artifacts
+artifacts/
+preview.py
