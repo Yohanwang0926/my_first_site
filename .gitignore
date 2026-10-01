@@ -28,6 +28,7 @@ venv/
 .turbo/
 dist/
 build/
+_site/
 coverage/
 
 # Editor, OS and temporary files
